@@ -1,5 +1,6 @@
 print("hello")
-for i in range(100):
+while True:
+
     user = input("you: ")
     if user == "goodbye":
         print("chatbot:bye")
