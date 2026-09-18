@@ -1,1 +1,1 @@
-# python7_exercises_session5_hadis_kamrani
+# python7_exercises_hadis_kamrani_session5
